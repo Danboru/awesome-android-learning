@@ -6,6 +6,8 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 
 See [how to contribute](#how-to-contribute)
 
+Tester
+
 ---
 
 ## Legends
